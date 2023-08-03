@@ -1,0 +1,15 @@
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\bin\Debug\net6.0\MVC Countries.exe
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\bin\Debug\net6.0\MVC Countries.deps.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\bin\Debug\net6.0\MVC Countries.runtimeconfig.json
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\bin\Debug\net6.0\MVC Countries.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\bin\Debug\net6.0\MVC Countries.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\MVC Countries.csproj.AssemblyReference.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\MVC Countries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\MVC Countries.AssemblyInfoInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\MVC Countries.AssemblyInfo.cs
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\MVC Countries.csproj.CoreCompileInputs.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\MVC Countries.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\refint\MVC Countries.dll
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\MVC Countries.pdb
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\MVC Countries.genruntimeconfig.cache
+C:\Users\Timjo\OneDrive\Desktop\GrandCircus\Class_Exersizes_GC\unit5\MVC Countries\obj\Debug\net6.0\ref\MVC Countries.dll
